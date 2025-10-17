@@ -154,6 +154,9 @@ MonoBehaviour:
   hotdogData: {fileID: 11400000, guid: 0208a998f0ed5aa44a1aa1814d8b8d49, type: 2}
   ingredientData: {fileID: 11400000, guid: e636e1b9ecdbec0488730a4e3d735662, type: 2}
   debugOnStart: 1
+  showAllHotdogs: 1
+  testHotdogType: 0
+  testIngredients: 
 --- !u!4 &375742439
 Transform:
   m_ObjectHideFlags: 0
